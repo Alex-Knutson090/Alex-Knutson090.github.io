@@ -210,6 +210,9 @@ font-size: 25px;
 margin-right: 5%;
 width: 95%
 }
+#frontpiece {
+    float:right;
+}
 
 
 
